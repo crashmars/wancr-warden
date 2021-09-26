@@ -2,7 +2,7 @@
     "name": "wancr-warden",
     "title": "WANCR Warden",
     "description": "Warden Class for D&D 5e by Mage Hand Press. Available Subclasses: Bloodwrath Guardian.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "TastyPig#0764",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "0.8.9",
